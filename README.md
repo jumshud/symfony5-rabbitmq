@@ -1,7 +1,7 @@
 # Symfony5 RabbitMQ Image cropping app
 ### This application built on top of the rabbitMQ and symfony5.2, intended to crop images sent to rabbitMQ server by rest API.
 
-##Usage
+## Usage
 1) Start symfony server
 ```shell
 symfony server:start
